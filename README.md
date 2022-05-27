@@ -1,5 +1,3 @@
-<br />
-
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvilGiraffes&show_icons=true&hide_border=true&hide=issues,contribs&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
